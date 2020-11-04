@@ -1,0 +1,38 @@
+*
+{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+body
+{
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+	font-family: "Calibri";
+}
+header 
+{
+	background-color: #F5F4F2;
+	text-align: right;
+	padding: 15px;
+	padding-right: 90px;
+
+}
+nav 
+{
+	padding: 10px;
+	padding-left: 90px;
+}
+main 
+{
+	padding: 20px;
+}
