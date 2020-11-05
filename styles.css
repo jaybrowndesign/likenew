@@ -19,22 +19,44 @@ body
 	
 	font-family: "Calibri";
 }
-header 
+
+a
+{
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 19px;
+	color: #619ab2ff;
+	padding-left: 5px;
+}
+.header 
 {
 	background-color: #F5F4F2;
-	text-align: right;
-	padding: 15px;
+	padding-top: 15px;
+	padding-bottom: 12px;
 	padding-right: 90px;
+	text-align: right;
 
 }
 nav 
 {
 	padding: 10px;
-	padding-left: 90px;
+	padding-left: 10%;
 }
-main 
+p
 {
-	padding: 20px;
+	font-size: 25px;
+}
+
+.logo
+{
+	width: 15%;
+}
+
+.icon-phone
+{
+	vertical-align: middle;
+	width: 25px;
+	padding-bottom: 5px;
 }
 
 .banner
