@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: likenewcedar.com
+Token: e7c630496d8338b078eb7628648b2c8dd0553396964dbcecbf289e886d0cb5ef
